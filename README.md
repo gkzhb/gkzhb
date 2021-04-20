@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I play Genshin Impact in CN server and like to use NeoVim.
+
+You are welcome to see [my configuration dotfile files](https://gitee.com/gkzhb/dotfiles).
 <!--
 **gkzhb/gkzhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
