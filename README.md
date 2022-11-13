@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-I play Genshin Impact in CN server and like to use NeoVim.
+I'm a web developer using React.js and TypeScript.
+
+I use Neovim to code, use Doom Emacs(Org Mode) to manage my life.
 
 You are welcome to see [my configuration dotfile files](https://gitee.com/gkzhb/dotfiles).
+
+Games currently playing:
+- Genshin Impact (CN server)
+- Beat Saber on SteamVR with Oculus Quest 2
+  - [gkzhb's Profile | ScoreSaber!](https://scoresaber.com/u/76561198082098102)
 <!--
 **gkzhb/gkzhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
