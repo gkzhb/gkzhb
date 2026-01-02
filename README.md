@@ -4,7 +4,7 @@ I'm a web developer using React.js and TypeScript.
 
 I use Neovim to code, use Obsidian ~~Doom Emacs(Org Mode)~~ to manage my life.
 
-You are welcome to browse [my configuration dotfile files](https://gitee.com/gkzhb/dotfiles).
+You are welcome to browse [my configuration dotfile files](https://github.com/gkzhb/dotfiles).
 
 Games I'm playing:
 - War Thunder
